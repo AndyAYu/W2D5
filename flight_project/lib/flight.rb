@@ -1,0 +1,5 @@
+require "flight"
+
+Passenger
+
+end
